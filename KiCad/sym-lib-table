@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MOUDLE-SEEEDUINO-XIAO-ESP32S3-Plus")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Seeed Studio XIAO ESP32S3 Plus KiCAD Library/MOUDLE-SEEEDUINO-XIAO-ESP32S3-Plus.kicad_sym")(options "")(descr ""))
+)
