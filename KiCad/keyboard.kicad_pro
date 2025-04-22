@@ -52,20 +52,7 @@
         }
       },
       "diff_pair_dimensions": [],
-      "drc_exclusions": [
-        [
-          "unconnected_items|197035786|97035786|571f3f92-16b9-4044-9898-e929e85ac41a|c5f9a22b-de20-4aef-b337-394066d0196b",
-          ""
-        ],
-        [
-          "unconnected_items|214605786|99575786|a43df31f-7d2e-4d6f-b7f2-306792d49495|f6a925c3-8ef2-49f8-a3fc-d55d876c8f45",
-          ""
-        ],
-        [
-          "unconnected_items|229325786|106985786|8873db09-3e15-4c38-bfdd-a25499623471|dd6eb56c-d8c1-422c-9efd-6969d23376a9",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
