@@ -1,0 +1,3 @@
+[submodule "KiCad/Libraries/scottokeebs"]
+	path = KiCad/Libraries/scottokeebs
+	url = https://github.com/joe-scotto/scottokeebs
