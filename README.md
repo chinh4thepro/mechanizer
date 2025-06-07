@@ -1,8 +1,18 @@
-# Mechanizer by chinh4thepro
+![tag](./Files/tag-bg.png)
+
+## What and Why?
+
+This is an ortholinear, split keyboard with wireless functionality and a display with a theme based on the song Mesmerizer by 32ki. I designed this keyboard to improve on issues I had with my previous ortholinear keyboard design, the blahajergo.
 
 ## Images
 
+### Schematic
+![Schematic](./Files/schematic.png)
 
+### PCB
+![PCB-2d](./Files/pcb-2d.png)
+![PCB-3d-f](./Files/pcb-front-3d.png)
+![PCB-3d-b](./Files/pcb-back-3d.png)
 
 ## BOM
 
