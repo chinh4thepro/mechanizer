@@ -1,4 +1,4 @@
 KiCad/*.lck
 KiCad/*backup*
 KiCad/*.log
-KiCad/fp*
+KiCad/*.round-tracks-config 

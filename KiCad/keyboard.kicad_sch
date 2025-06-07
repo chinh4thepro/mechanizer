@@ -10834,7 +10834,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ9_Evercom_5301-440xxx_Horizontal"
+		(property "Footprint" "chinh4thepro:RJ9_Evercom_5301-440xxx_Horizontal"
 			(at 194.31 194.31 90)
 			(effects
 				(font
@@ -16460,7 +16460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ9_Evercom_5301-440xxx_Horizontal"
+		(property "Footprint" "chinh4thepro:RJ9_Evercom_5301-440xxx_Horizontal"
 			(at 194.31 83.82 90)
 			(effects
 				(font
