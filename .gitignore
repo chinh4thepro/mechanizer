@@ -1,6 +1,6 @@
-KiCad/*.lck
-KiCad/*backup*
-KiCad/*.log
-KiCad/*.round-tracks-config 
-KiCad/*auto_saved*
-KiCad/*autosave*
+CAD/KiCad/*.lck
+CAD/KiCad/*backup*
+CAD/KiCad/*.log
+CAD/KiCad/*.round-tracks-config 
+CAD/KiCad/*auto_saved*
+CAD/KiCad/*autosave*

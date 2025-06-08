@@ -1,0 +1,238 @@
+(footprint "RJ9_Evercom_5301-440xxx_Horizontal"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Evercom 5301-4P4C RJ9 receptacle, unshielded, https://datasheet.lcsc.com/lcsc/2207051802_EVERCOM-5301-4P4C_C3097715.pdf")
+	(tags "RJ9 Connector tab down")
+	(property "Reference" "J3"
+		(at 1.84 -4.826 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8162e544-6061-40be-b51e-b32084719e24")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "4P4C"
+		(at 2.078 15.506 180)
+		(layer "F.Fab")
+		(uuid "8ddd21cd-7635-4fd7-9424-4cc8f0279e9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2ce213b-f815-4e8e-9592-02beabb5623b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "RJ connector, 4P4C (4 positions 4 connected), RJ9/RJ10/RJ22"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cb0522e9-a693-4de9-8fc6-3489574fb741")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -4.21 -4.25)
+		(end 7.89 -4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9268ca6d-d014-45b4-a40f-1d49968d78f1")
+	)
+	(fp_line
+		(start -4.21 14.75)
+		(end -4.21 -4.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3e1cab69-ff4e-4859-a5f6-5bd0b96c6d8b")
+	)
+	(fp_line
+		(start 7.89 -4.25)
+		(end 7.89 14.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8e93a4d6-20a3-46b7-82f8-9474b4517a23")
+	)
+	(fp_line
+		(start 7.89 14.75)
+		(end -4.21 14.75)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e3e97d89-aef6-4c1d-b1f9-b50f64d228e9")
+	)
+	(fp_line
+		(start -3.71 -3.75)
+		(end 7.39 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b0279aaf-b438-4c8f-ab0f-3dad37ae872f")
+	)
+	(fp_line
+		(start -3.71 -0.485)
+		(end -3.71 -3.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2a8ff5f4-b5f2-4733-b0a4-ef8225504a58")
+	)
+	(fp_line
+		(start -3.71 0.515)
+		(end -3.21 0.015)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ed839c38-e391-467d-8476-abff32f18aa7")
+	)
+	(fp_line
+		(start -3.71 14.25)
+		(end -3.71 0.515)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2b3df219-adff-44bf-b81b-f8eac1b7f8f0")
+	)
+	(fp_line
+		(start -3.21 0.015)
+		(end -3.71 -0.485)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7f6831b6-a8b3-4f31-bbf7-c223d992aa8f")
+	)
+	(fp_line
+		(start 7.39 -3.75)
+		(end 7.39 14.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a8863caa-e7a9-4242-8ec4-e9b71ae7b314")
+	)
+	(fp_line
+		(start 7.39 14.25)
+		(end -3.71 14.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "18c17969-01ed-48cb-803f-d417d1902fb3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.698 4.966 180)
+		(layer "F.Fab")
+		(uuid "153cf7e5-3b3d-49a5-b8fb-09f9eb7ec9e3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at -1.91 6.35)
+		(size 3.25 3.25)
+		(drill 3.2)
+		(layers "*.Mask")
+		(uuid "4c645a79-8d5f-40d1-8dfc-83f5ee5cd035")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.59 6.35)
+		(size 3.25 3.25)
+		(drill 3.25)
+		(layers "*.Mask")
+		(uuid "4924777f-682e-4258-b154-d2e38282ecfc")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.1388888889)
+		(uuid "991fdf16-6fb8-4253-9964-5541a53d1e38")
+	)
+	(pad "2" thru_hole circle
+		(at 1.27 -2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6757b137-c43d-4289-9e7a-0d0383f61193")
+	)
+	(pad "3" thru_hole circle
+		(at 2.54 0)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "8c83e1f1-a5e6-45a5-a792-fdb26810cf66")
+	)
+	(pad "4" thru_hole circle
+		(at 3.81 -2.54)
+		(size 1.8 1.8)
+		(drill 0.9)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "74e55bcb-9d9b-4d0f-ab48-4e720af4ad18")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/Libraries/chinh4thepro/3d models/215875-1.stp"
+		(offset
+			(xyz 1.85 -14.25 5.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
