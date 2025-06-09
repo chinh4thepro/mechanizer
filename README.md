@@ -29,12 +29,13 @@ This is an ortholinear, split keyboard with wireless functionality and a display
 | JST connector             | 2     | $1.00     | typeractive   | https://typeractive.xyz/products/battery-jack?variant=45597492707559              |
 | SMD side button           | 2     | $1.50     | typeractive   | https://typeractive.xyz/products/reset-button                                     |
 | SPDT Switch               | 2     | $1.50     | typeractive   | https://typeractive.xyz/products/power-switch?variant=45597854171367              |
-| M2 screws                 | 12    | $2.44     | AliExpress    | https://www.aliexpress.us/item/2255799870438450.html                              |
+| M2 screws                 | 24    | $2.44     | AliExpress    | https://www.aliexpress.us/item/2255799870438450.html                              |
+| M2 standoffs              | 12    | $5.40     | AliExpress    | https://www.aliexpress.us/item/3256806016664762.html                              |
 | Seeed XIAO ESP32-S3 Plus  | 2     | $13.80    | seeedstudio   | https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Plus-p-6361.html            |
 
 | Total                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
-| AliExpress: $23.14 subtotal + $6.24 shipping + $1.76 fees = $30.83 total                                                                          |
+| AliExpress: $25.54 subtotal + $4.25 shipping + $1.95 fees = $34.16 total                                                                          |
 | typeractive: $26.40 subtotal + $0.00 shipping + $0.00 fees = $26.40 total                                                                         |
 | seeedstudio: $13.80 subtotal + $7.26 shipping + $0.00 fees = $21.06 total                                                                         |
-| Total: $78.29                                                                                                                                     |
+| Total: $81.62                                                                                                                                    |
