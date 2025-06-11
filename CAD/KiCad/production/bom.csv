@@ -1,0 +1,10 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D6, D7, D8, D9",ComboDiode,54,D_Small,
+"H1, H10, H11, H12, H2, H3, H4, H5, H6, H7, H8, H9",mounting_hole_plated,12,,
+"J1, J4",OLED_128x32,2,OLED_128x32,
+"J2, J5",JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal,2,Conn_01x02_Socket,
+"J3, J6",RJ9_Evercom_5301-440xxx_Horizontal,2,4P4C,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S3, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S41, S42, S43, S44, S45, S46, S47, S48, S49, S5, S50, S51, S52, S53, S54, S6, S7, S8, S9",Hotswap_MX,54,Keyswitch,
+"SW1, SW3",reset_switch_smd_side,2,Switch,
+"SW2, SW4",power_switch_smd_side,2,SW_SPDT,
+"U1, U3",Xiao_ESP32S3_Plus.kicad_sym,2,XIAO-HALF-HOLE-23P,
