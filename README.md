@@ -6,6 +6,9 @@ This is an ortholinear, split keyboard with wireless functionality and a display
 
 ## Images
 
+### Overall
+![Overall](./Files/overall.png)
+
 ### Schematic
 ![Schematic](./Files/schematic.png)
 
