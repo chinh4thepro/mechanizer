@@ -4,4 +4,6 @@ CAD/KiCad/*.log
 CAD/KiCad/*.round-tracks-config 
 CAD/KiCad/*auto_saved*
 CAD/KiCad/*autosave*
+CAD/KiCad/*fabrication*
+CAD/KiCad/*.zip
 CAD/Inventor/OldVersions
