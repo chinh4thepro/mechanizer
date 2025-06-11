@@ -40,5 +40,5 @@ This is an ortholinear, split keyboard with wireless functionality and a display
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 | AliExpress: $52.83 subtotal + $4.24 shipping + $3.33 fees = $58.61 total                                                                          |
 | typeractive: $26.40 subtotal + $0.00 shipping + $0.00 fees = $26.40 total                                                                         |
-| seeedstudio: $0.00 subtotal + $0.00 shipping + $0.00 fees = $00.00 total                                                                          |
+| seeedstudio: $0.00 subtotal + $0.00 shipping + $0.00 fees = $0.00 total                                                                          |
 | Total: $85.01                                                                                                                                     |
