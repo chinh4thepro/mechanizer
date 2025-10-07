@@ -35,10 +35,12 @@ This is an ortholinear, split keyboard with wireless functionality and a display
 | M2 screws                                 | 24    | $2.44     | AliExpress    | https://www.aliexpress.us/item/2255799870438450.html                              |
 | M2 standoffs                              | 12    | $5.40     | AliExpress    | https://www.aliexpress.us/item/3256806016664762.html                              |
 | Seeed XIAO ESP32-S3 Plus (already own)    | 2     | $13.80    | seeedstudio   | https://www.seeedstudio.com/Seeed-Studio-XIAO-ESP32S3-Plus-p-6361.html            |
+| PCB                                       | 1 (5) | $36.92    | jlcpcb        | See jlcpcb pic in Files                                                           |
 
 | Total                                                                                                                                             |
 |---------------------------------------------------------------------------------------------------------------------------------------------------|
 | AliExpress: $52.83 subtotal + $4.24 shipping + $3.33 fees = $58.61 total                                                                          |
 | typeractive: $26.40 subtotal + $0.00 shipping + $0.00 fees = $26.40 total                                                                         |
-| seeedstudio: $0.00 subtotal + $0.00 shipping + $0.00 fees = $0.00 total                                                                          |
-| Total: $85.01                                                                                                                                     |
+| seeedstudio: $0.00 subtotal + $0.00 shipping + $0.00 fees = $0.00 total                                                                           |
+| jlcpcb: $21.40 subtotal + $15.52 shipping + $0.00 fees = $36.92 total                                                                             |
+| Total: $121.93                                                                                                                                     |
